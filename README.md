@@ -10,7 +10,7 @@ A planner that runs your semester, and a study lab that turns your notes into pr
 **Study Planner: ★ 4.8 on Google Play · nearly 4,000 downloads** (Play Console)
 
 > This repo is the public showcase. The app source is private because it's a live commercial
-> product, but I'm happy to walk through the code and architecture in an interview.
+> product.
 
 ---
 
